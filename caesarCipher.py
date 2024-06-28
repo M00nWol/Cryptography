@@ -19,7 +19,7 @@ SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'
 translated = ''
 
 for symbol in message:
-    # 주의 : SYMBOLS 문자열에 있는 문자만 암호화/복호화할 수 있다.
+    
     if symbol in SYMBOLS:
         symbolIndex = SYMBOLS.find(symbol)
 
