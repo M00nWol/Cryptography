@@ -1,6 +1,3 @@
-# 전치 암호 복호화 프로그램
-# http://www.nostarch.com/crackingcodes/ (BSD Lisenced)
-
 import math, pyperclip
 
 def main():
