@@ -1,13 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python
 
-# 파일 제외
-test.py
-
 ### Python ###
 # Byte-compiled / optimized / DLL files
-__pycache__/
-CrackingCodesFiles/
+Pycrypto/__pycache__/
+Pycrypto/CrackingCodesFiles/
 *.py[cod]
 *$py.class
 
